@@ -19,7 +19,7 @@ const Home = () => {
        <table className="table-auto w-[800px] border-separate border-spacing-0 border-2 mt-16 rounded-2xl bg-white ">
           <thead>
             <tr>
-              <th className="text-left p-4 font-semibold border-b border-gray-300">Places</th>
+              <th className="text-left p-4 font-semibold border-b border-gray-300">Pela</th>
               <th className="text-left p-4 font-semibold border-b border-gray-300">Tempreture</th>
               <th className="text-left p-4 font-semibold border-b border-gray-300">Air Pressure</th>
               <th className="text-left p-4 font-semibold border-b border-gray-300">Overral Wether</th>
