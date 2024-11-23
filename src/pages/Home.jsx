@@ -4,7 +4,7 @@ import Card from '../component/Card';
 const Home = () => {
   return (
     <div className='h-[100vh] w-full bg-gray-800'>
-      <h1 className='font-extrabold text-3xl text-white text-center'>Odisha</h1>
+      <h1 className='font-semibold pt-3  text-3xl text-white text-center'>Odisha</h1>
       <div className='flex flex-wrap justify-center gap-16 mt-6'>
         {Array.from({ length: 5 }).map((_, index) => (
           <Card key={index} />
